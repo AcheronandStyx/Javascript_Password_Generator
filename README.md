@@ -13,4 +13,4 @@ https://acheronandstyx.github.io/Javascript_Password_Generator/
 
 ## Screenshot of Application
 
-![Screenshot of Password Generator](https://raw.github.com/AcheronandStyx/Javascript_Password_Generator/main/assets/images/PasswordScreenshot.png)
+![Screenshot of Password Generator](https://raw.github.com/AcheronandStyx/Javascript_Password_Generator/main/assets/images/PasswordScreenshot.PNG)
